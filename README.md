@@ -1,1 +1,1 @@
-# shine
+# shine.com
